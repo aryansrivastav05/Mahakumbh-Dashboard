@@ -76,4 +76,4 @@ Tourism Strategy: Identifies cities with the largest international tourist inflo
 Historical Documentation: Creates a single digital knowledge hub for researchers and students of cultural studies.
 
 6. Screenshots / Demos
-    https://github.com/aryansrivastav05/Mahakumbh-Dashboard/blob/master/mahakumbh%20dashboard.png
+    <img width="1162" height="652" alt="image" src="https://github.com/user-attachments/assets/987082a4-a782-4535-8e4f-1b91fdd4f6b2" />
