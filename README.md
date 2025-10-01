@@ -1,8 +1,8 @@
 # Mahakumbh-Dashboard
 I created this interactive dashboard of Mahakumbh  in Power BI that transforms raw data into meaningful insights through visualizations, charts, and KPIs. The dashboard is designed to provide a clear, real-time view of data of kumbh mela held so  far.
 
-🌊 Mahakumbh Insights: Interactive Power BI Dashboard
-An analytical and interactive data visualization dashboard that showcases historical insights from Mahakumbh Melas held across India—focusing on year-wise participation, locations, cultural events, infrastructure, and demographic patterns.
+1. 🌊 Mahakumbh Insights: Interactive Power BI Dashboard
+  An analytical and interactive data visualization dashboard that showcases historical insights from Mahakumbh Melas held across India—focusing on year-wise participation, locations, cultural events, infrastructure, and demographic patterns.
 
 2. Short Description
 
@@ -76,4 +76,4 @@ Tourism Strategy: Identifies cities with the largest international tourist inflo
 Historical Documentation: Creates a single digital knowledge hub for researchers and students of cultural studies.
 
 6. Screenshots / Demos
-7. https://github.com/aryansrivastav05/Mahakumbh-Dashboard/blob/master/mahakumbh%20dashboard.png
+    https://github.com/aryansrivastav05/Mahakumbh-Dashboard/blob/master/mahakumbh%20dashboard.png
